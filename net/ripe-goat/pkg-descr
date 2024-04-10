@@ -1,0 +1,5 @@
+goat - Go (RIPE) Atlas Tools - CLI & API Wrapper
+
+goat is a Go package to interact with RIPE Atlas APIs using Golang.
+It also provides a CLI interface to most of the APIs. It is similar
+to: Cousteau, Sagan and Magellan combined.
